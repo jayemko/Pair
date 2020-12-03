@@ -58,7 +58,6 @@
 		3C64DA6D2579550F008EB946 /* Pair */ = {
 			isa = PBXGroup;
 			children = (
-				3C64DA8C2579565D008EB946 /* Models */,
 				3C64DA892579564D008EB946 /* Controllers */,
 				3C64DA86257955AD008EB946 /* Views */,
 				3C64DA842579558B008EB946 /* Resources */,
@@ -117,13 +116,6 @@
 				3C64DA9725795721008EB946 /* PairsController.swift */,
 			);
 			path = ModelControllers;
-			sourceTree = "<group>";
-		};
-		3C64DA8C2579565D008EB946 /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
